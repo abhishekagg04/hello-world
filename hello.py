@@ -63,4 +63,4 @@ while True:
     offset -=1
     if offset <= ((len(message)+2)*6) * -1:
         offset = WIDTH
-    time.sleep(0.05)
+    time.sleep(0.10)
